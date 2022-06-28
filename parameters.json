@@ -1,0 +1,7 @@
+{
+  "authority": "https://login.microsoftonline.com/fa07cb78-c80f-48b3-b560-7d4f6d566228",
+  "client_id": "7430531e-8ce8-4eaf-ac9b-c4e83aba04ac",
+  "scope": [ "api://dedb5554-7c2d-4cc1-9fb4-514315a4387c/.default" ],
+  "secret": "GcM8Q~R.IcKEW.7~TzZTMiqt7L1cPBEdsPGgtb5p",
+  "endpoint": "https://sit.sbs.digital/api/cim17/9/MeterReadings2/get"
+}
